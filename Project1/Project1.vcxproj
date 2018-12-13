@@ -118,10 +118,12 @@
     <ClCompile Include="HumanBaseParent.cpp" />
     <ClCompile Include="PreistSubChild.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Warrior.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HumanBaseParent.h" />
     <ClInclude Include="PreistSubChild.h" />
+    <ClInclude Include="Warrior.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

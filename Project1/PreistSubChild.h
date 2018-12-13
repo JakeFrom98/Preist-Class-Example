@@ -10,5 +10,8 @@ public:
 	PreistSubChild();
 	~PreistSubChild();
 
-	void bless();
+	void bless(string whoToBless);
+
+private:
+
 };

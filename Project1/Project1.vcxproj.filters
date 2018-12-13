@@ -24,12 +24,18 @@
     <ClCompile Include="PreistSubChild.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Warrior.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HumanBaseParent.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PreistSubChild.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Warrior.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

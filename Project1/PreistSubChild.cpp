@@ -9,9 +9,9 @@ PreistSubChild::PreistSubChild()
 	cout << "A Priest is born!" << endl;
 }
 
-void PreistSubChild::bless()
+void PreistSubChild::bless(string whoToBless)
 {
-	cout << "Bless you!" << endl;
+	cout << "The Priest Blesses! " << whoToBless << endl;
 }
 
 
